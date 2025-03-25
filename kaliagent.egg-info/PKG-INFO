@@ -1,29 +1,44 @@
+Metadata-Version: 2.4
+Name: kaliagent
+Version: 1.0.0
+Summary: AI-powered Ethical Hacking Assistant for Kali Linux
+Home-page: https://github.com/kali-ai/kaliagent
+Author: Kali AI Team
+Author-email: contact@kaliagent.sec
+Keywords: kali,linux,ethical-hacking,cybersecurity,penetration-testing
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Security
+Classifier: Topic :: System :: Systems Administration
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: agno>=1.2.3
+Requires-Dist: openai>=1.0.0
+Requires-Dist: python-dotenv>=1.0.0
+Requires-Dist: rich>=13.0.0
+Requires-Dist: pydantic>=2.0.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: keywords
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
 # KaliAI 🛡️
 
 AI-powered Ethical Hacking Assistant for Kali Linux
 
 KaliAI is an advanced AI assistant designed to help security professionals and ethical hackers leverage Kali Linux tools effectively and safely. It provides guidance, explanations, and security insights while emphasizing ethical considerations and best practices.
-
-│     |   < | | | | | |/ ___ \  | |  │
-│     |_|\_\__,_|_|_/_/   \_\|___|   │
-│                                    │
-│     Ethical Hacking Assistant Demo │
-│                                    │
-╰────────────────────────────────────╯
-
-Welcome to the KaliAI Demo!
-This interactive demonstration showcases the key features of KaliAI,
-an ethical hacking assistant specialized in Kali Linux.
-
-
-Options:
-1. Tool Explanation Demo
-2. Command Analysis Demo
-3. Interactive Chat Demo
-4. Exit
-
-Choose an option [1/2/3/4]: 
-
 
 ## Features
 

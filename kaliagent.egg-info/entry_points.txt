@@ -1,0 +1,2 @@
+[console_scripts]
+kaliagent = kaliagent.cli:main

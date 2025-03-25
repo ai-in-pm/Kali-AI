@@ -1,0 +1,16 @@
+README.md
+setup.py
+kaliagent/__init__.py
+kaliagent/cli.py
+kaliagent.egg-info/PKG-INFO
+kaliagent.egg-info/SOURCES.txt
+kaliagent.egg-info/dependency_links.txt
+kaliagent.egg-info/entry_points.txt
+kaliagent.egg-info/requires.txt
+kaliagent.egg-info/top_level.txt
+kaliagent/config/__init__.py
+kaliagent/config/settings.py
+kaliagent/core/__init__.py
+kaliagent/core/agent.py
+kaliagent/utils/__init__.py
+kaliagent/utils/command_handler.py
